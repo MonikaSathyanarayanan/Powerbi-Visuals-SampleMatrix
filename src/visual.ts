@@ -50,6 +50,8 @@ export class Visual implements IVisual {
     }
 
     public update(options: VisualUpdateOptions) {
+        console.log("update triggered");
+        
         if (!options) {
             return;
         }

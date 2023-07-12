@@ -125,5 +125,6 @@
                 "defaultValue": true
             }
         }
-    }
+    },
+    "supportsHighlight": true
 }
